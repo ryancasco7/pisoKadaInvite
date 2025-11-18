@@ -1,0 +1,6 @@
+node_modules/
+pisokada.db
+.env
+*.log
+.DS_Store
+
